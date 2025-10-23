@@ -1,0 +1,21 @@
+.transcript-section {
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 1rem 1.5rem;
+  border-radius: 8px;
+  background-color: #fff;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  color: #333;
+}
+
+.transcript-title {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+
+.transcript-text {
+  white-space: pre-wrap;
+  line-height: 1.5rem;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

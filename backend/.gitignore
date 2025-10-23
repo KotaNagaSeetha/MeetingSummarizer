@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+venv/
+instance/
+*.sqlite3
+*.log
+*.cfg
+
+# Environment
+.env
+.env.*
+
+
+
+# Local DB
+db.sqlite3
+
+# Uploaded files
+static/uploads/
+
+

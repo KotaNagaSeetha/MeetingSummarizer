@@ -1,0 +1,36 @@
+.summary-section {
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 1rem 1.5rem;
+  border-radius: 8px;
+  background-color: #fff;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.12);
+  color: #111;
+}
+
+.summary-title {
+  font-size: 1.75rem;
+  font-weight: 700;
+  margin-bottom: 0.75rem;
+}
+
+.summary-text {
+  white-space: pre-wrap;
+  font-size: 1.1rem;
+  margin-bottom: 1rem;
+  line-height: 1.6rem;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.action-items-title {
+  font-size: 1.3rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.action-items-text {
+  white-space: pre-wrap;
+  font-size: 1.05rem;
+  line-height: 1.5rem;
+  color: #555;
+}
